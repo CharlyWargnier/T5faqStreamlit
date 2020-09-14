@@ -1,6 +1,4 @@
-requests-html
 transformers
-
 
 altair==4.1.0
 appdirs==1.4.4
@@ -81,6 +79,7 @@ pywinpty==0.5.7
 PyYAML==5.3.1
 pyzmq==19.0.2
 regex==2020.7.14
+requests-html==0.10.0
 requests==2.24.0
 s3transfer==0.3.3
 sacremoses==0.0.43
