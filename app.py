@@ -2,6 +2,10 @@ import streamlit as st
 from requests_html import HTMLSession
 session = HTMLSession()
 
+import nltk
+nltk.download('punkt')
+
+
 #st.text_input()
 
 st.write('https://www.tatielou.co.uk/pages/about-us')
